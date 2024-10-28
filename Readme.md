@@ -1,1 +1,1 @@
-Gather town clone
+Gather town clone homepage
